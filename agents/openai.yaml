@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cheng-Wei Paperwriting Style"
+  short_description: "Polish mRNA-LNP manuscripts with guarded style rules"
+  default_prompt: "Use $cheng-wei-paperwriting-style to conservatively polish this English manuscript paragraph while preserving all scientific meaning."
